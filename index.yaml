@@ -3,7 +3,7 @@ entries:
   pulsar:
   - apiVersion: v2
     appVersion: 2.7.4
-    created: "2022-03-11T15:47:55.816203869+01:00"
+    created: "2022-03-11T16:11:09.746090958+01:00"
     description: Apache Pulsar Helm chart for Kubernetes
     digest: 4c53eeeb6f04dfe30c8efbd718199891aa39d4e4e2e82ea1de22c5dbdd2dd85e
     home: https://pulsar.apache.org
@@ -15,6 +15,6 @@ entries:
     sources:
     - https://github.com/apache/pulsar
     urls:
-    - https://github.com/HuynhKevin/helm-chart/pulsar-2.7.13.tgz
+    - https://huynhkevin.github.io/helm-chart/pulsar-2.7.13.tgz
     version: 2.7.13
-generated: "2022-03-11T15:47:55.810371525+01:00"
+generated: "2022-03-11T16:11:09.73740464+01:00"
